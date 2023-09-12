@@ -1,0 +1,279 @@
+{
+  "products": [
+    {
+      "id": 4,
+      "title": "iPhone 14 Pro Max",
+      "price": 25,
+      "images": "https://res.cloudinary.com/deq97is5t/image/upload/v1693449798/iphone_14_pro_max_pdp_position-1_deep_purple_color-0-650x650_dqwotj.webp",
+      "description": "...",
+      "quantity": 15,
+      "category": "/api/categories/1",
+      "carts": [],
+      "orderDetails": []
+    },
+    {
+      "id": 5,
+      "title": "iPhone 13",
+      "price": 16,
+      "images": "https://res.cloudinary.com/deq97is5t/image/upload/v1693450632/iphone-13-xanh-duong-1-650x650_vajzjd.webp",
+      "description": "...",
+      "quantity": 15,
+      "category": "/api/categories/1",
+      "carts": [],
+      "orderDetails": []
+    },
+    {
+      "id": 6,
+      "title": "iPhone 11",
+      "price": 10,
+      "images": "https://res.cloudinary.com/deq97is5t/image/upload/v1693451129/iphone-11-trang-4-650x650_plwoi4.webp",
+      "description": "...",
+      "quantity": 15,
+      "category": "/api/categories/1",
+      "carts": [],
+      "orderDetails": []
+    },
+    {
+      "id": 7,
+      "title": "iPhone 14 Pro",
+      "price": 22,
+      "images": "https://res.cloudinary.com/deq97is5t/image/upload/v1693451359/iphone_14_pro_pdp_position-1a_gold_color-0-650x650_c2x3gv.webp",
+      "description": "...",
+      "quantity": 14,
+      "category": "/api/categories/1",
+      "carts": [],
+      "orderDetails": []
+    },
+    {
+      "id": 8,
+      "title": "iPhone 14 Plus",
+      "price": 19,
+      "images": "https://res.cloudinary.com/deq97is5t/image/upload/v1693451424/iphone-14-plus-gold-glr-1-650x650_g5mozi.webp",
+      "description": "...",
+      "quantity": 15,
+      "category": "/api/categories/1",
+      "carts": [],
+      "orderDetails": []
+    },
+    {
+      "id": 9,
+      "title": "iPhone 14",
+      "price": 16,
+      "images": "https://res.cloudinary.com/deq97is5t/image/upload/v1693451568/iphone_14_pdp_position-1_productred_color-0-650x650_ug4axu.webp",
+      "description": "...",
+      "quantity": 15,
+      "category": "/api/categories/1",
+      "carts": [],
+      "orderDetails": []
+    },
+    {
+      "id": 10,
+      "title": "iPhone 13 mini",
+      "price": 13,
+      "images": "https://res.cloudinary.com/deq97is5t/image/upload/v1693451674/iphone-13-mini-den-1-650x650_ohrqyi.webp",
+      "description": "...",
+      "quantity": 15,
+      "category": "/api/categories/1",
+      "carts": [],
+      "orderDetails": []
+    },
+    {
+      "id": 11,
+      "title": "MacBook Air 15 inch M2 2023 8CPU - 10GPU",
+      "price": 35,
+      "images": "https://res.cloudinary.com/deq97is5t/image/upload/v1693451759/apple-macbook-air-m2-2023-16gb-silver-7-650x650_hfdayw.webp",
+      "description": "...",
+      "quantity": 15,
+      "category": "/api/categories/2",
+      "carts": [],
+      "orderDetails": []
+    },
+    {
+      "id": 12,
+      "title": "MacBook Pro 16 inch 2023 M2 Pro 12CPU - 19GPU",
+      "price": 55,
+      "images": "https://res.cloudinary.com/deq97is5t/image/upload/v1693451806/macbook-pro-16-inch-m2-pro-1-tb-abc-silver-7-650x650_yznzi1.webp",
+      "description": "...",
+      "quantity": 15,
+      "category": "/api/categories/2",
+      "carts": [],
+      "orderDetails": []
+    },
+    {
+      "id": 13,
+      "title": "MacBook Pro 14 inch 2023 M2 Pro 12CPU - 19GPU",
+      "price": 45,
+      "images": "https://res.cloudinary.com/deq97is5t/image/upload/v1693451900/macbook-pro-14-inch-m2-pro-19-core-gpu-6-650x650_onfqxt.webp",
+      "description": "...",
+      "quantity": 15,
+      "category": "/api/categories/2",
+      "carts": [],
+      "orderDetails": []
+    },
+    {
+      "id": 14,
+      "title": "MacBook Air 13 inch M2 2022 8CPU - 8GPU",
+      "price": 15,
+      "images": "https://res.cloudinary.com/deq97is5t/image/upload/v1693451983/apple-macbook-air-m2-2022-16gb-256gb-2-650x650_zar3db.webp",
+      "description": "...",
+      "quantity": 15,
+      "category": "/api/categories/2",
+      "carts": [],
+      "orderDetails": []
+    },
+    {
+      "id": 15,
+      "title": "MacBook Pro 13 inch M2 2022 8CPU - 10GPU",
+      "price": 15,
+      "images": "https://res.cloudinary.com/deq97is5t/image/upload/v1693452071/apple-macbook-pro-13-inch-m2-2022-1-1-650x650_cqscnn.webp",
+      "description": "...",
+      "quantity": 15,
+      "category": "/api/categories/2",
+      "carts": [],
+      "orderDetails": []
+    },
+    {
+      "id": 16,
+      "title": "iMac 24 inch M1 2021 8CPU - 8GPU",
+      "price": 30,
+      "images": "https://res.cloudinary.com/deq97is5t/image/upload/v1693452166/imac-24inch-8gpu-blue-7-1200x1200_v77ygd.webp",
+      "description": "...",
+      "quantity": 15,
+      "category": "/api/categories/2",
+      "carts": [],
+      "orderDetails": []
+    },
+    {
+      "id": 17,
+      "title": "iPad Pro M2 12.9 inch WiFi Cellular 128GB",
+      "price": 25,
+      "images": "https://res.cloudinary.com/deq97is5t/image/upload/v1693452257/vn_ipad_pro_cellular_12-9_in_6th_gen_space_gray_pdp_image_position-1-650x650_yj0mhz.webp",
+      "description": "...",
+      "quantity": 15,
+      "category": "/api/categories/3",
+      "carts": [],
+      "orderDetails": []
+    },
+    {
+      "id": 18,
+      "title": "iPad Pro M2 11 inch WiFi Cellular 128GB",
+      "price": 19,
+      "images": "https://res.cloudinary.com/deq97is5t/image/upload/v1693452330/vn_ipad_pro_cellular_11_in_4th_gen_silver_pdp_image_position-1-650x650_bqgyzs.webp",
+      "description": "...",
+      "quantity": 15,
+      "category": "/api/categories/3",
+      "carts": [],
+      "orderDetails": []
+    },
+    {
+      "id": 19,
+      "title": "iPad 10 WiFi + Cellular",
+      "price": 10,
+      "images": "https://res.cloudinary.com/deq97is5t/image/upload/v1693452403/vn_ipad_10th_gen_cellular_blue_pdp_image_5g_position-1-650x650_s7bocw.webp",
+      "description": "...",
+      "quantity": 15,
+      "category": "/api/categories/3",
+      "carts": [],
+      "orderDetails": []
+    },
+    {
+      "id": 20,
+      "title": "iPad Air 5 WiFi + Cellular",
+      "price": 13,
+      "images": "https://res.cloudinary.com/deq97is5t/image/upload/v1693452489/air-5-m1-wifi-cellular-hong-2-650x650_xhqjw8.webp",
+      "description": "...",
+      "quantity": 15,
+      "category": "/api/categories/3",
+      "carts": [],
+      "orderDetails": []
+    },
+    {
+      "id": 21,
+      "title": "iPad 9 WiFi + Cellular",
+      "price": 8,
+      "images": "https://res.cloudinary.com/deq97is5t/image/upload/v1693452542/ipad-9-wifi-cellular-silver-2-650x650_xbdpes.webp",
+      "description": "...",
+      "quantity": 15,
+      "category": "/api/categories/3",
+      "carts": [],
+      "orderDetails": []
+    },
+    {
+      "id": 22,
+      "title": "AirPods 3 sạc Lightning",
+      "price": 4,
+      "images": "https://res.cloudinary.com/deq97is5t/image/upload/v1693452692/airpods-3-trang-1-650x650_m6rjqu.webp",
+      "description": "...",
+      "quantity": 15,
+      "category": "/api/categories/4",
+      "carts": [],
+      "orderDetails": []
+    },
+    {
+      "id": 23,
+      "title": "AirPods 2 Hộp sạc thường",
+      "price": 2,
+      "images": "https://res.cloudinary.com/deq97is5t/image/upload/v1693452815/tai-nghe-bluetooth-airpods-2-apple-mv7n2-trang-trang-5-650x650_vzpinx.webp",
+      "description": "...",
+      "quantity": 15,
+      "category": "/api/categories/4",
+      "carts": [],
+      "orderDetails": []
+    },
+    {
+      "id": 24,
+      "title": "AirPods Max",
+      "price": 12,
+      "images": "https://res.cloudinary.com/deq97is5t/image/upload/v1693452752/bluetooth-airpods-max-apple-bac-2-650x650_s9awzv.webp",
+      "description": "...",
+      "quantity": 15,
+      "category": "/api/categories/4",
+      "carts": [],
+      "orderDetails": []
+    },
+    {
+      "id": 25,
+      "title": "Apple Watch Ultra GPS + Cellular 49mm Alpine Loop",
+      "price": 20,
+      "images": "https://res.cloudinary.com/deq97is5t/image/upload/v1693452936/vn_apple_watch_ultra_cell_49mm_titanium_orange_alpine_loop_pdp_image_position-1-650x650_ast1se.webp",
+      "description": "...",
+      "quantity": 15,
+      "category": "/api/categories/5",
+      "carts": [],
+      "orderDetails": []
+    },
+    {
+      "id": 26,
+      "title": "Apple Watch Ultra GPS + Cellular 49mm size M/L",
+      "price": 18,
+      "images": "https://res.cloudinary.com/deq97is5t/image/upload/v1693453036/vn_apple_watch_ultra_cell_49mm_titanium_blackgray_trail_loop_pdp_image_position-1-650x650_tm5fnp.webp",
+      "description": "...",
+      "quantity": 15,
+      "category": "/api/categories/5",
+      "carts": [],
+      "orderDetails": []
+    },
+    {
+      "id": 27,
+      "title": "Apple Watch Series 8 GPS + Cellular 41mm",
+      "price": 17,
+      "images": "https://res.cloudinary.com/deq97is5t/image/upload/v1693453093/vn_apple_watch_series_8_cell_41mm_graphite_stainless_steel_graphite_milanese_loop_pdp_image_position-1-650x650_od7rwp.webp",
+      "description": "...",
+      "quantity": 15,
+      "category": "/api/categories/5",
+      "carts": [],
+      "orderDetails": []
+    },
+    {
+      "id": 28,
+      "title": "iphone1",
+      "price": 4,
+      "images": "strading",
+      "description": "ads",
+      "quantity": 5,
+      "category": "/api/categories/1",
+      "carts": [],
+      "orderDetails": []
+    }
+  ]
+}
