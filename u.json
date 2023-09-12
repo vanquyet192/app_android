@@ -1,0 +1,33 @@
+{
+    "@context": "/api/contexts/User",
+    "@id": "/api/users",
+    "@type": "hydra:Collection",
+    "hydra:totalItems": 2,
+    "hydra:member": [
+      {
+        "@id": "/api/users/1",
+        "@type": "User",
+        "id": 1,
+        "email": "quyetdvbs00079@fpt.edu.vn",
+        "password": "1111",
+        "address": "quan 12 tphcm",
+        "phone": 86625134,
+        "fullname": "Dao Van Quyet",
+        "carts": [],
+        "orders": []
+      },
+      {
+        "@id": "/api/users/2",
+        "@type": "User",
+        "id": 2,
+        "email": "ngoanhtran@gmail.com",
+        "password": "1234",
+        "address": "namdinh",
+        "phone": 2374,
+        "fullname": "tranthingocanh",
+        "carts": [],
+        "orders": []
+      }
+    ]
+  }
+  
